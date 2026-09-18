@@ -1,6 +1,6 @@
 {
  "trip": "Patagonia & Polinesia 2026",
- "updated": "2026-09-16",
+ "updated": "2026-09-17",
  "photos": [
   {
    "file": "001.jpg",
@@ -216,6 +216,211 @@
    "file": "043.jpg",
    "day": 2,
    "caption": "Il nostro primo brindisi, a 360 gradi"
+  },
+  {
+   "file": "044.jpg",
+   "day": 2,
+   "caption": "Il Puente de la Mujer di notte, Puerto Madero"
+  },
+  {
+   "file": "045.jpg",
+   "day": 2,
+   "caption": "Le gru del vecchio porto, dopo cena"
+  },
+  {
+   "file": "046.jpg",
+   "day": 2,
+   "caption": "Il pilone del Puente de la Mujer"
+  },
+  {
+   "file": "047.jpg",
+   "day": 3,
+   "caption": "Buon giorno, Plaza de Mayo"
+  },
+  {
+   "file": "048.jpg",
+   "day": 3,
+   "caption": "Il prato davanti alla Casa Rosada"
+  },
+  {
+   "file": "049.jpg",
+   "day": 3,
+   "caption": "La Fragata Sarmiento, a Puerto Madero"
+  },
+  {
+   "file": "050.jpg",
+   "day": 3,
+   "caption": "Le gru dei vecchi docks"
+  },
+  {
+   "file": "051.jpg",
+   "day": 3,
+   "caption": "Seduto su una gru di Puerto Madero"
+  },
+  {
+   "file": "052.jpg",
+   "day": 3,
+   "caption": "Lucrezia e la gru"
+  },
+  {
+   "file": "053.jpg",
+   "day": 3,
+   "caption": "Il lungofiume di Puerto Madero"
+  },
+  {
+   "file": "054.jpg",
+   "day": 3,
+   "caption": "La scultura a Puerto Madero"
+  },
+  {
+   "file": "055.jpg",
+   "day": 3,
+   "caption": "Noi due sul Río de la Plata"
+  },
+  {
+   "file": "056.jpg",
+   "day": 3,
+   "caption": "Il Giardino Giapponese, a Palermo"
+  },
+  {
+   "file": "057.jpg",
+   "day": 3,
+   "caption": "La gru di carta del Giardino Giapponese"
+  },
+  {
+   "file": "058.jpg",
+   "day": 3,
+   "caption": "I torii rossi sul laghetto"
+  },
+  {
+   "file": "059.jpg",
+   "day": 3,
+   "caption": "Il sentiero dei torii"
+  },
+  {
+   "file": "060.jpg",
+   "day": 3,
+   "caption": "Le balconate del teatro diventato libreria"
+  },
+  {
+   "file": "061.jpg",
+   "day": 3,
+   "caption": "El Ateneo Grand Splendid, dal palco"
+  },
+  {
+   "file": "062.jpg",
+   "day": 3,
+   "caption": "La platea piena di libri"
+  },
+  {
+   "file": "063.jpg",
+   "day": 3,
+   "caption": "El Ateneo visto dall'alto"
+  },
+  {
+   "file": "064.jpg",
+   "day": 3,
+   "caption": "La scala d'onore del Teatro Colón"
+  },
+  {
+   "file": "065.jpg",
+   "day": 3,
+   "caption": "Il lucernario del Teatro Colón"
+  },
+  {
+   "file": "066.jpg",
+   "day": 3,
+   "caption": "Una scultura nel foyer del Colón"
+  },
+  {
+   "file": "067.jpg",
+   "day": 3,
+   "caption": "Dettaglio di marmo"
+  },
+  {
+   "file": "068.jpg",
+   "day": 3,
+   "caption": "Il Salón Dorado"
+  },
+  {
+   "file": "069.jpg",
+   "day": 3,
+   "caption": "La cupola del Salón Dorado"
+  },
+  {
+   "file": "070.jpg",
+   "day": 3,
+   "caption": "Lo scalone del Teatro Colón"
+  },
+  {
+   "file": "071.jpg",
+   "day": 3,
+   "caption": "La sala del Teatro Colón, dal palco"
+  },
+  {
+   "file": "072.jpg",
+   "day": 3,
+   "caption": "Il foyer con il tappeto rosso"
+  },
+  {
+   "file": "073.jpg",
+   "day": 3,
+   "caption": "Un bus per Palermo"
+  },
+  {
+   "file": "074.jpg",
+   "day": 3,
+   "caption": "L'Obelisco e le lettere BA"
+  },
+  {
+   "file": "075.jpg",
+   "day": 3,
+   "caption": "Un palazzo di Avenida de Mayo"
+  },
+  {
+   "file": "076.jpg",
+   "day": 3,
+   "caption": "Antico e moderno, nel centro"
+  },
+  {
+   "file": "077.jpg",
+   "day": 3,
+   "caption": "L'ingresso dell'Aljibe"
+  },
+  {
+   "file": "078.jpg",
+   "day": 3,
+   "caption": "Il palco del tango"
+  },
+  {
+   "file": "079.jpg",
+   "day": 3,
+   "caption": "Lucrezia all'Aljibe"
+  },
+  {
+   "file": "080.jpg",
+   "day": 3,
+   "caption": "La sala prima dello spettacolo"
+  },
+  {
+   "file": "081.jpg",
+   "day": 3,
+   "caption": "Tango"
+  },
+  {
+   "file": "082.jpg",
+   "day": 3,
+   "caption": "La danza folklorica"
+  },
+  {
+   "file": "083.jpg",
+   "day": 3,
+   "caption": "La compagnia sul palco"
+  },
+  {
+   "file": "084.jpg",
+   "day": 3,
+   "caption": "I saluti finali"
   }
  ]
 }
