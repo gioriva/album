@@ -1,6 +1,6 @@
 {
  "trip": "Patagonia & Polinesia 2026",
- "updated": "2026-09-17",
+ "updated": "2026-09-18",
  "photos": [
   {
    "file": "001.jpg",
@@ -421,6 +421,136 @@
    "file": "084.jpg",
    "day": 3,
    "caption": "I saluti finali"
+  },
+  {
+   "file": "085.jpg",
+   "day": 4,
+   "caption": "Le case di legno di El Calafate"
+  },
+  {
+   "file": "086.jpg",
+   "day": 4,
+   "caption": "Il nostro lodge, in paese"
+  },
+  {
+   "file": "087.jpg",
+   "day": 4,
+   "caption": "La via principale del paese"
+  },
+  {
+   "file": "088.jpg",
+   "day": 4,
+   "caption": "Il centro di El Calafate"
+  },
+  {
+   "file": "089.jpg",
+   "day": 4,
+   "caption": "L'ingresso della Reserva Laguna Nimez"
+  },
+  {
+   "file": "090.jpg",
+   "day": 4,
+   "caption": "Il sentiero tra la steppa"
+  },
+  {
+   "file": "091.jpg",
+   "day": 4,
+   "caption": "Le lagune della riserva"
+  },
+  {
+   "file": "092.jpg",
+   "day": 4,
+   "caption": "Verso il Mirador Lago Argentino"
+  },
+  {
+   "file": "093.jpg",
+   "day": 4,
+   "caption": "Il rifugio per il birdwatching"
+  },
+  {
+   "file": "094.jpg",
+   "day": 4,
+   "caption": "Dalla feritoia del rifugio"
+  },
+  {
+   "file": "095.jpg",
+   "day": 4,
+   "caption": "La laguna dalla finestra del rifugio"
+  },
+  {
+   "file": "096.jpg",
+   "day": 4,
+   "caption": "La riva del Lago Argentino"
+  },
+  {
+   "file": "097.jpg",
+   "day": 4,
+   "caption": "Un'oca andina nella steppa"
+  },
+  {
+   "file": "098.jpg",
+   "day": 4,
+   "caption": "Il cielo della Patagonia"
+  },
+  {
+   "file": "099.jpg",
+   "day": 4,
+   "caption": "Le montagne innevate oltre la laguna"
+  },
+  {
+   "file": "100.jpg",
+   "day": 4,
+   "caption": "Il lago e le Ande sullo sfondo"
+  },
+  {
+   "file": "101.jpg",
+   "day": 4,
+   "caption": "Le cime innevate sul Lago Argentino"
+  },
+  {
+   "file": "102.jpg",
+   "day": 4,
+   "caption": "Noi due sulla passerella, a 360 gradi"
+  },
+  {
+   "file": "103.jpg",
+   "day": 4,
+   "caption": "La laguna specchio, con i pioppi"
+  },
+  {
+   "file": "104.jpg",
+   "day": 4,
+   "caption": "Uccelli acquatici nella riserva"
+  },
+  {
+   "file": "105.jpg",
+   "day": 4,
+   "caption": "Lucrezia sulla panchina, davanti alla laguna"
+  },
+  {
+   "file": "106.jpg",
+   "day": 4,
+   "caption": "La strada che scende verso il lago"
+  },
+  {
+   "file": "107.jpg",
+   "day": 4,
+   "caption": "Un ibis sul tetto, tra le lucine"
+  },
+  {
+   "file": "108.jpg",
+   "day": 4,
+   "caption": "L'ibis dalla faccia nera da vicino"
+  },
+  {
+   "file": "109.jpg",
+   "day": 4,
+   "caption": "La scalinata colorata del paese"
+  },
+  {
+   "file": "110.jpg",
+   "day": 4,
+   "caption": "La casa azzurra, verso sera"
   }
  ]
 }
