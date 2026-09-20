@@ -1,6 +1,6 @@
 {
  "trip": "Patagonia & Polinesia 2026",
- "updated": "2026-09-18",
+ "updated": "2026-09-19",
  "photos": [
   {
    "file": "001.jpg",
@@ -551,6 +551,136 @@
    "file": "110.jpg",
    "day": 4,
    "caption": "La casa azzurra, verso sera"
+  },
+  {
+   "file": "111.jpg",
+   "day": 5,
+   "caption": "La strada verso il parco, tra le montagne"
+  },
+  {
+   "file": "112.jpg",
+   "day": 5,
+   "caption": "I primi iceberg solitari sul Lago Argentino"
+  },
+  {
+   "file": "113.jpg",
+   "day": 5,
+   "caption": "L'ingresso del Parco Nazionale Los Glaciares"
+  },
+  {
+   "file": "114.jpg",
+   "day": 5,
+   "caption": "Il fronte del Perito Moreno, con un battello sotto la parete"
+  },
+  {
+   "file": "115.jpg",
+   "day": 5,
+   "caption": "La parete di ghiaccio e le cime dietro"
+  },
+  {
+   "file": "116.jpg",
+   "day": 5,
+   "caption": "I pinnacoli del ghiacciaio da vicino"
+  },
+  {
+   "file": "117.jpg",
+   "day": 5,
+   "caption": "Il fronte visto dalle passerelle"
+  },
+  {
+   "file": "118.jpg",
+   "day": 5,
+   "caption": "Il ghiacciaio e il bosco sulla riva opposta"
+  },
+  {
+   "file": "119.jpg",
+   "day": 5,
+   "caption": "La baia con gli iceberg alla deriva"
+  },
+  {
+   "file": "120.jpg",
+   "day": 5,
+   "caption": "Noi due sulle passerelle, con l'alone del sole"
+  },
+  {
+   "file": "121.jpg",
+   "day": 5,
+   "caption": "La parete lunga cinque chilometri"
+  },
+  {
+   "file": "122.jpg",
+   "day": 5,
+   "caption": "Sul punto panoramico, davanti al ghiacciaio"
+  },
+  {
+   "file": "123.jpg",
+   "day": 5,
+   "caption": "Il Perito Moreno e le montagne innevate"
+  },
+  {
+   "file": "124.jpg",
+   "day": 5,
+   "caption": "Il battello sotto la parete, per capire le proporzioni"
+  },
+  {
+   "file": "125.jpg",
+   "day": 5,
+   "caption": "Il fronte dal lago"
+  },
+  {
+   "file": "126.jpg",
+   "day": 5,
+   "caption": "Un iceberg azzurro alla deriva"
+  },
+  {
+   "file": "127.jpg",
+   "day": 5,
+   "caption": "Ghiaccio e nuvole sul lago"
+  },
+  {
+   "file": "128.jpg",
+   "day": 5,
+   "caption": "Le cime che dominano il ghiacciaio"
+  },
+  {
+   "file": "129.jpg",
+   "day": 5,
+   "caption": "L'iceberg e il cielo carico"
+  },
+  {
+   "file": "130.jpg",
+   "day": 5,
+   "caption": "Noi due a prua, verso il ghiacciaio"
+  },
+  {
+   "file": "131.jpg",
+   "day": 5,
+   "caption": "Il ghiacciaio che si perde all'orizzonte"
+  },
+  {
+   "file": "132.jpg",
+   "day": 5,
+   "caption": "Sotto la parete, a poche decine di metri"
+  },
+  {
+   "file": "133.jpg",
+   "day": 5,
+   "caption": "Il profilo del fronte dal catamarano"
+  },
+  {
+   "file": "134.jpg",
+   "day": 5,
+   "caption": "L'ultimo iceberg prima del rientro"
+  },
+  {
+   "file": "135.jpg",
+   "day": 5,
+   "caption": "Il ghiaccio azzurro da vicino"
+  },
+  {
+   "file": "136.jpg",
+   "day": 5,
+   "caption": "L'agnello arrosto consigliato da Ariel"
   }
  ]
 }
