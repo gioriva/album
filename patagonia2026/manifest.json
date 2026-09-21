@@ -1,6 +1,6 @@
 {
  "trip": "Patagonia & Polinesia 2026",
- "updated": "2026-09-20",
+ "updated": "2026-09-21",
  "photos": [
   {
    "file": "001.jpg",
@@ -857,6 +857,171 @@
    "day": 6,
    "caption": "Il nostro itinerario sul Lago Argentino: da El Calafate a Punta Bandera, poi in barca fino all'Upsala e allo Spegazzini",
    "solo_galleria": true
+  },
+  {
+   "file": "171.jpg",
+   "day": 7,
+   "caption": "Il fuoco dell'asador, acceso appena arrivati"
+  },
+  {
+   "file": "172.jpg",
+   "day": 7,
+   "caption": "Un vecchio carro all'ingresso dell'estancia"
+  },
+  {
+   "file": "173.jpg",
+   "day": 7,
+   "caption": "La strada che entra nella valle"
+  },
+  {
+   "file": "174.jpg",
+   "day": 7,
+   "caption": "La chata, il carro con cui si portava la lana"
+  },
+  {
+   "file": "175.jpg",
+   "day": 7,
+   "caption": "Il nome dell'estancia, scritto sul fianco del carro"
+  },
+  {
+   "file": "176.jpg",
+   "day": 7,
+   "caption": "Le cime innevate oltre il recinto"
+  },
+  {
+   "file": "177.jpg",
+   "day": 7,
+   "caption": "Una ruota di carro appoggiata al corral"
+  },
+  {
+   "file": "178.jpg",
+   "day": 7,
+   "caption": "Il sentiero che porta al casco"
+  },
+  {
+   "file": "179.jpg",
+   "day": 7,
+   "caption": "Le pecore nel corral, con le Ande dietro"
+  },
+  {
+   "file": "180.jpg",
+   "day": 7,
+   "caption": "Gli alberi piantati a riparo dal vento"
+  },
+  {
+   "file": "181.jpg",
+   "day": 7,
+   "caption": "Una delle case dell'estancia, sotto i rami"
+  },
+  {
+   "file": "182.jpg",
+   "day": 7,
+   "caption": "I cavalli pronti per l'escursione"
+  },
+  {
+   "file": "183.jpg",
+   "day": 7,
+   "caption": "Il corral di legno e la montagna"
+  },
+  {
+   "file": "184.jpg",
+   "day": 7,
+   "caption": "Il gaucho che porta il gregge, in una nuvola di polvere"
+  },
+  {
+   "file": "185.jpg",
+   "day": 7,
+   "caption": "Il gaucho a cavallo davanti al galpón"
+  },
+  {
+   "file": "186.jpg",
+   "day": 7,
+   "caption": "In sella, tra le orecchie del cavallo"
+  },
+  {
+   "file": "187.jpg",
+   "day": 7,
+   "caption": "Si parte a cavallo, in fila indiana"
+  },
+  {
+   "file": "188.jpg",
+   "day": 7,
+   "caption": "Verso il lago, con la fila davanti"
+  },
+  {
+   "file": "189.jpg",
+   "day": 7,
+   "caption": "Il cielo enorme sopra la steppa"
+  },
+  {
+   "file": "190.jpg",
+   "day": 7,
+   "caption": "La pista che costeggia l'acqua"
+  },
+  {
+   "file": "191.jpg",
+   "day": 7,
+   "caption": "Lucrezia saluta, davanti al lago"
+  },
+  {
+   "file": "192.jpg",
+   "day": 7,
+   "caption": "La valle che si apre verso il braccio del lago"
+  },
+  {
+   "file": "193.jpg",
+   "day": 7,
+   "caption": "Le montagne riflesse nell'acqua ferma"
+  },
+  {
+   "file": "194.jpg",
+   "day": 7,
+   "caption": "Uno specchio perfetto, senza un filo di vento"
+  },
+  {
+   "file": "195.jpg",
+   "day": 7,
+   "caption": "La laguna e le Ande, dal punto più alto"
+  },
+  {
+   "file": "196.jpg",
+   "day": 7,
+   "caption": "Nuvole doppie, sopra e sotto"
+  },
+  {
+   "file": "197.jpg",
+   "day": 7,
+   "caption": "Il picco e il suo riflesso"
+  },
+  {
+   "file": "198.jpg",
+   "day": 7,
+   "caption": "Le pecore al pascolo dietro il galpón"
+  },
+  {
+   "file": "199.jpg",
+   "day": 7,
+   "caption": "La dimostrazione di tosatura, nel galpón del 1917"
+  },
+  {
+   "file": "200.jpg",
+   "day": 7,
+   "caption": "La pista del ritorno, lungo il lago"
+  },
+  {
+   "file": "201.jpg",
+   "day": 7,
+   "caption": "L'estancia vista dal prato, con le Ande dietro"
+  },
+  {
+   "file": "202.jpg",
+   "day": 7,
+   "caption": "Il cartello dell'Estancia Nibepo Aike"
+  },
+  {
+   "file": "203.jpg",
+   "day": 7,
+   "caption": "L'ultima cima prima di rientrare a El Calafate"
   }
  ]
 }
