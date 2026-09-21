@@ -1,6 +1,6 @@
 {
  "trip": "Patagonia & Polinesia 2026",
- "updated": "2026-09-19",
+ "updated": "2026-09-20",
  "photos": [
   {
    "file": "001.jpg",
@@ -681,6 +681,12 @@
    "file": "136.jpg",
    "day": 5,
    "caption": "L'agnello arrosto consigliato da Ariel"
+  },
+  {
+   "file": "giroghiacciai.jpg",
+   "day": 6,
+   "caption": "Il nostro itinerario sul Lago Argentino: da El Calafate a Punta Bandera, poi in barca fino all'Upsala e allo Spegazzini",
+   "solo_galleria": true
   }
  ]
 }
