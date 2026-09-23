@@ -1,6 +1,6 @@
 {
  "trip": "Patagonia & Polinesia 2026",
- "updated": "2026-09-21",
+ "updated": "2026-09-22",
  "photos": [
   {
    "file": "001.jpg",
@@ -1022,6 +1022,171 @@
    "file": "203.jpg",
    "day": 7,
    "caption": "L'ultima cima prima di rientrare a El Calafate"
+  },
+  {
+   "file": "204.jpg",
+   "day": 8,
+   "caption": "Dal finestrino, le montagne e il Canale Beagle prima dell'atterraggio"
+  },
+  {
+   "file": "205.jpg",
+   "day": 8,
+   "caption": "Appena atterrati a Ushuaia, freddo e sole"
+  },
+  {
+   "file": "206.jpg",
+   "day": 8,
+   "caption": "Le navi rompighiaccio ormeggiate al porto"
+  },
+  {
+   "file": "207.jpg",
+   "day": 8,
+   "caption": "Il porto di Ushuaia, con le Ande sullo sfondo"
+  },
+  {
+   "file": "208.jpg",
+   "day": 8,
+   "caption": "Le casette colorate lungo il porto"
+  },
+  {
+   "file": "209.jpg",
+   "day": 8,
+   "caption": "Un murale sulle scale che salgono dal porto"
+  },
+  {
+   "file": "210.jpg",
+   "day": 8,
+   "caption": "La Prefectura sul lungomare"
+  },
+  {
+   "file": "211.jpg",
+   "day": 8,
+   "caption": "L'Area Naval Austral dell'Armada Argentina"
+  },
+  {
+   "file": "212.jpg",
+   "day": 8,
+   "caption": "Il cartello della Base Naval, ricoperto di adesivi"
+  },
+  {
+   "file": "213.jpg",
+   "day": 8,
+   "caption": "Una vecchia barca nel cortile del Presidio"
+  },
+  {
+   "file": "214.jpg",
+   "day": 8,
+   "caption": "Uno dei padiglioni della prigione"
+  },
+  {
+   "file": "215.jpg",
+   "day": 8,
+   "caption": "La pianta del Presidio, cinque bracci attorno a un corpo centrale"
+  },
+  {
+   "file": "216.jpg",
+   "day": 8,
+   "caption": "Una stufa in mezzo al corridoio, l'unico riscaldamento"
+  },
+  {
+   "file": "217.jpg",
+   "day": 8,
+   "caption": "Una cella dipinta, con il detenuto a righe"
+  },
+  {
+   "file": "218.jpg",
+   "day": 8,
+   "caption": "Un'altra cella, con un volto sulla parete"
+  },
+  {
+   "file": "219.jpg",
+   "day": 8,
+   "caption": "Il braccio su due piani, visto dalla balconata"
+  },
+  {
+   "file": "220.jpg",
+   "day": 8,
+   "caption": "Il corpo centrale, dove si incontrano i bracci"
+  },
+  {
+   "file": "221.jpg",
+   "day": 8,
+   "caption": "L'ingresso del padiglione 1, con il detenuto di guardia"
+  },
+  {
+   "file": "222.jpg",
+   "day": 8,
+   "caption": "I pinguini dipinti del museo"
+  },
+  {
+   "file": "223.jpg",
+   "day": 8,
+   "caption": "Il braccio lasciato com'era, con le porte delle celle"
+  },
+  {
+   "file": "224.jpg",
+   "day": 8,
+   "caption": "Lucrezia dietro le sbarre del Presidio"
+  },
+  {
+   "file": "225.jpg",
+   "day": 8,
+   "caption": "Il lavatoio della prigione"
+  },
+  {
+   "file": "226.jpg",
+   "day": 8,
+   "caption": "Le navi della marina nel porto, all'ora del tramonto"
+  },
+  {
+   "file": "227.jpg",
+   "day": 8,
+   "caption": "Un aereo che scende sul Canale Beagle"
+  },
+  {
+   "file": "228.jpg",
+   "day": 8,
+   "caption": "La Base Naval Ushuaia sotto il Monte Olivia"
+  },
+  {
+   "file": "229.jpg",
+   "day": 8,
+   "caption": "La baia al tramonto, con l'acqua ferma"
+  },
+  {
+   "file": "230.jpg",
+   "day": 8,
+   "caption": "Le case sul porto, riflesse nella baia"
+  },
+  {
+   "file": "231.jpg",
+   "day": 8,
+   "caption": "Il monumento all'Antartide Argentina"
+  },
+  {
+   "file": "232.jpg",
+   "day": 8,
+   "caption": "I gabbiani sul prato del lungomare"
+  },
+  {
+   "file": "233.jpg",
+   "day": 8,
+   "caption": "Il porto e le montagne innevate con la luce della sera"
+  },
+  {
+   "file": "234.jpg",
+   "day": 8,
+   "caption": "Casa Sartini, uno degli edifici storici del centro"
+  },
+  {
+   "file": "235.jpg",
+   "day": 8,
+   "caption": "Il pontile del porto, all'ultima luce"
+  },
+  {
+   "file": "236.jpg",
+   "day": 8,
+   "caption": "La strada del centro, con il bus del Presidio"
   }
  ]
 }
