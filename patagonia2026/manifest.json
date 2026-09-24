@@ -1,6 +1,6 @@
 {
  "trip": "Patagonia & Polinesia 2026",
- "updated": "2026-09-22",
+ "updated": "2026-09-23",
  "photos": [
   {
    "file": "001.jpg",
@@ -1187,6 +1187,196 @@
    "file": "236.jpg",
    "day": 8,
    "caption": "La strada del centro, con il bus del Presidio"
+  },
+  {
+   "file": "237.jpg",
+   "day": 9,
+   "caption": "L'alba della fine del mondo, dalla finestra della camera"
+  },
+  {
+   "file": "238.jpg",
+   "day": 9,
+   "caption": "Colazione davanti al cielo rosa"
+  },
+  {
+   "file": "239.jpg",
+   "day": 9,
+   "caption": "La Estación Fin del Mundo"
+  },
+  {
+   "file": "240.jpg",
+   "day": 9,
+   "caption": "Una vecchia macchina a vapore davanti alla stazione"
+  },
+  {
+   "file": "241.jpg",
+   "day": 9,
+   "caption": "La locomotiva verde, già in pressione"
+  },
+  {
+   "file": "242.jpg",
+   "day": 9,
+   "caption": "Il muso del trenino sui binari"
+  },
+  {
+   "file": "243.jpg",
+   "day": 9,
+   "caption": "Il treno che parte, con la montagna innevata dietro"
+  },
+  {
+   "file": "244.jpg",
+   "day": 9,
+   "caption": "La locomotiva di testa, con la bandiera argentina"
+  },
+  {
+   "file": "245.jpg",
+   "day": 9,
+   "caption": "La valle del fiume Pipo, tra torbiere e faggi"
+  },
+  {
+   "file": "246.jpg",
+   "day": 9,
+   "caption": "Un carrello per le pietre, dai tempi del treno dei prigionieri"
+  },
+  {
+   "file": "247.jpg",
+   "day": 9,
+   "caption": "Alla stazione del Parco Nazionale Tierra del Fuego"
+  },
+  {
+   "file": "248.jpg",
+   "day": 9,
+   "caption": "Il cartello della Ruta 3, al capolinea"
+  },
+  {
+   "file": "249.jpg",
+   "day": 9,
+   "caption": "Tierra del Fuego, Ruta Nacional 3"
+  },
+  {
+   "file": "250.jpg",
+   "day": 9,
+   "caption": "Bahía Lapataia: qui finisce la Ruta 3, a 3.079 km da Buenos Aires e 17.848 dall'Alaska"
+  },
+  {
+   "file": "251.jpg",
+   "day": 9,
+   "caption": "Bahía Lapataia e le montagne sul Canale Beagle"
+  },
+  {
+   "file": "252.jpg",
+   "day": 9,
+   "caption": "Il sentiero sulla riva, tra i faggi australi"
+  },
+  {
+   "file": "253.jpg",
+   "day": 9,
+   "caption": "Il catamarano che ci porta sul Canale Beagle"
+  },
+  {
+   "file": "254.jpg",
+   "day": 9,
+   "caption": "La scia sul canale, con il cielo che si chiude"
+  },
+  {
+   "file": "255.jpg",
+   "day": 9,
+   "caption": "Un'isola del canale, con un rifugio sulla spiaggia"
+  },
+  {
+   "file": "256.jpg",
+   "day": 9,
+   "caption": "La scritta Ushuaia sull'isola"
+  },
+  {
+   "file": "257.jpg",
+   "day": 9,
+   "caption": "Le isole del Beagle e la costa cilena"
+  },
+  {
+   "file": "258.jpg",
+   "day": 9,
+   "caption": "La colonia di cormorani e leoni marini sugli scogli"
+  },
+  {
+   "file": "259.jpg",
+   "day": 9,
+   "caption": "L'isola dei leoni marini, con i cormorani in volo"
+  },
+  {
+   "file": "260.jpg",
+   "day": 9,
+   "caption": "Un cormorano che atterra sulla colonia"
+  },
+  {
+   "file": "261.jpg",
+   "day": 9,
+   "caption": "I cormorani, fitti come una folla"
+  },
+  {
+   "file": "262.jpg",
+   "day": 9,
+   "caption": "Uno scoglio intero ricoperto di cormorani"
+  },
+  {
+   "file": "263.jpg",
+   "day": 9,
+   "caption": "Il Faro Les Eclaireurs, il faro della fine del mondo"
+  },
+  {
+   "file": "264.jpg",
+   "day": 9,
+   "caption": "I cormorani da vicino: sembrano quasi pinguini"
+  },
+  {
+   "file": "265.jpg",
+   "day": 9,
+   "caption": "Uno scoglio con il muschio verde"
+  },
+  {
+   "file": "266.jpg",
+   "day": 9,
+   "caption": "Cormorani e un gabbiano in volo"
+  },
+  {
+   "file": "267.jpg",
+   "day": 9,
+   "caption": "Il faro sull'isolotto, con le montagne nella nebbia"
+  },
+  {
+   "file": "268.jpg",
+   "day": 9,
+   "caption": "Tre cormorani di guardia sullo scoglio"
+  },
+  {
+   "file": "269.jpg",
+   "day": 9,
+   "caption": "Leoni marini ai piedi del faro"
+  },
+  {
+   "file": "270.jpg",
+   "day": 9,
+   "caption": "Il faro contro un pezzo di cielo azzurro"
+  },
+  {
+   "file": "271.jpg",
+   "day": 9,
+   "caption": "I leoni marini che sonnecchiano sulla roccia"
+  },
+  {
+   "file": "272.jpg",
+   "day": 9,
+   "caption": "Un leone marino alza la testa, gli altri dormono"
+  },
+  {
+   "file": "273.jpg",
+   "day": 9,
+   "caption": "Il faro con le montagne innevate sullo sfondo"
+  },
+  {
+   "file": "274.jpg",
+   "day": 9,
+   "caption": "Noi due davanti al faro della fine del mondo"
   }
  ]
 }
