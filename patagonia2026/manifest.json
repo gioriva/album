@@ -1,6 +1,6 @@
 {
  "trip": "Patagonia & Polinesia 2026",
- "updated": "2026-09-27",
+ "updated": "2026-09-28",
  "photos": [
   {
    "file": "001.jpg",
@@ -1738,6 +1738,106 @@
    "day": 13,
    "caption": "Da Ushuaia a Papeete: quattro voli, 25 ore e mezza in aria, 18.809 km",
    "solo_galleria": true
+  },
+  {
+   "file": "346.jpg",
+   "day": 14,
+   "caption": "La piroga a vela davanti al ristorante, la mattina presto"
+  },
+  {
+   "file": "347.jpg",
+   "day": 14,
+   "caption": "L'arco di legno del ristorante, con le palme in cornice"
+  },
+  {
+   "file": "348.jpg",
+   "day": 14,
+   "caption": "Lucrezia con la corona di fiori, nel giardino del resort"
+  },
+  {
+   "file": "349.jpg",
+   "day": 14,
+   "caption": "Il kayak giallo sotto la tettoia, con Taha'a dietro"
+  },
+  {
+   "file": "350.jpg",
+   "day": 14,
+   "caption": "Le palme piegate dal vento sopra il bar della spiaggia"
+  },
+  {
+   "file": "351.jpg",
+   "day": 14,
+   "caption": "Noi due, con le corone di foglie di cocco intrecciate a mano"
+  },
+  {
+   "file": "352.jpg",
+   "day": 14,
+   "caption": "Le corone appena fatte: la sua di fiori, la mia di foglie"
+  },
+  {
+   "file": "353.jpg",
+   "day": 14,
+   "caption": "Il nostro amico polinesiano apre una noce di cocco"
+  },
+  {
+   "file": "354.jpg",
+   "day": 14,
+   "caption": "Il maestro del cocco, tatuato dai piedi alla fronte"
+  },
+  {
+   "file": "355.jpg",
+   "day": 14,
+   "caption": "Come si sbuccia una noce secca, a mani nude"
+  },
+  {
+   "file": "356.jpg",
+   "day": 14,
+   "caption": "Lucrezia beve l'acqua di cocco direttamente dal frutto"
+  },
+  {
+   "file": "357.jpg",
+   "day": 14,
+   "caption": "Il saluto polinesiano, tra i gusci aperti"
+  },
+  {
+   "file": "358.jpg",
+   "day": 14,
+   "caption": "I sentieri di pietra nera sotto gli alberi"
+  },
+  {
+   "file": "359.jpg",
+   "day": 14,
+   "caption": "Il pontile verso i bungalow, tra le palme"
+  },
+  {
+   "file": "360.jpg",
+   "day": 14,
+   "caption": "Il molo del resort, con le montagne di Taha'a"
+  },
+  {
+   "file": "361.jpg",
+   "day": 14,
+   "caption": "Le canoe a bilanciere del resort, pronte per uscire"
+  },
+  {
+   "file": "362.jpg",
+   "day": 14,
+   "caption": "Un pandano con le radici a trampolo, davanti ai bungalow"
+  },
+  {
+   "file": "363.jpg",
+   "day": 14,
+   "caption": "Un catamarano in laguna, con il cielo che si chiude"
+  },
+  {
+   "file": "364.jpg",
+   "day": 14,
+   "caption": "Il ristorante sugli alberi, di sera"
+  },
+  {
+   "file": "365.jpg",
+   "day": 14,
+   "caption": "I bungalow sull'acqua, illuminati nella notte"
   }
  ]
 }
