@@ -1,6 +1,6 @@
 {
  "trip": "Patagonia & Polinesia 2026",
- "updated": "2026-09-29",
+ "updated": "2026-09-30",
  "photos": [
   {
    "file": "001.jpg",
@@ -1943,6 +1943,46 @@
    "file": "386.jpg",
    "day": 15,
    "caption": "Foto di gruppo con tutta la compagnia"
+  },
+  {
+   "file": "387.jpg",
+   "day": 16,
+   "caption": "Le palme nel vento, dal ristorante sugli alberi"
+  },
+  {
+   "file": "388.jpg",
+   "day": 16,
+   "caption": "Il giardino visto dall'alto, con il ponticello sul laghetto"
+  },
+  {
+   "file": "389.jpg",
+   "day": 16,
+   "caption": "Il ristorante sugli alberi, tra i rami"
+  },
+  {
+   "file": "390.jpg",
+   "day": 16,
+   "caption": "La spiaggia del motu, con Taha'a dietro"
+  },
+  {
+   "file": "391.jpg",
+   "day": 16,
+   "caption": "I bungalow sull'acqua, dalla riva"
+  },
+  {
+   "file": "392.jpg",
+   "day": 16,
+   "caption": "Lucrezia sul paddle, nella laguna piatta"
+  },
+  {
+   "file": "393.jpg",
+   "day": 16,
+   "caption": "Verso gli isolotti, sotto un cielo a pecorelle"
+  },
+  {
+   "file": "394.jpg",
+   "day": 16,
+   "caption": "La tavola sulla sabbia, a fine giro"
   }
  ]
 }
